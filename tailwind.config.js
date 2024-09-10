@@ -22,9 +22,9 @@ export default {
     theme: {
         extend: {
             
-            // colors: {
-            //     primary: colors.rose
-            // },
+            colors: {
+                primary: colors.rose
+            },
             
             fontFamily: {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
